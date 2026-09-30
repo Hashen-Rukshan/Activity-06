@@ -1,0 +1,14 @@
+D:\SA\Inclass Activity 06\bin\Debug\net10.0\Inclass Activity 06.exe
+D:\SA\Inclass Activity 06\bin\Debug\net10.0\Inclass Activity 06.deps.json
+D:\SA\Inclass Activity 06\bin\Debug\net10.0\Inclass Activity 06.runtimeconfig.json
+D:\SA\Inclass Activity 06\bin\Debug\net10.0\Inclass Activity 06.dll
+D:\SA\Inclass Activity 06\bin\Debug\net10.0\Inclass Activity 06.pdb
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.GeneratedMSBuildEditorConfig.editorconfig
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.AssemblyInfoInputs.cache
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.AssemblyInfo.cs
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.csproj.CoreCompileInputs.cache
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.dll
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\refint\Inclass Activity 06.dll
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.pdb
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\Inclass Activity 06.genruntimeconfig.cache
+D:\SA\Inclass Activity 06\obj\Debug\net10.0\ref\Inclass Activity 06.dll
